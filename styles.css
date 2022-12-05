@@ -127,3 +127,38 @@ display: flex;
     font-weight: 700px;
     margin-left: 600px;
 }
+
+/* Call to action section */
+
+.call-to-action {
+    background-color: #3882F6;
+    margin: 100px 120px 0px 120px;
+    padding: 50px 100px 50px 100px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+}
+
+.call-header {
+    color: #F9FAF8;
+    font-size: 20px;
+}
+
+.call-text {
+    color: #E5E7EB;
+}
+
+.call-button {
+    font-size: 16px;
+    width: 130px;
+    height: 35px;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    border: 2px #F9FAF8 solid;
+    border-radius: 8px;
+    margin-left: 300px;
+}
+
+.call-main-text {
+    display: inline;
+}
