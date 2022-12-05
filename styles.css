@@ -77,3 +77,32 @@ display: flex;
     border-radius: 8px;
     margin-top: 20px;
 }
+
+/* Random information section */
+
+.random-info-header {
+    font-size: 36px;
+    font-weight: 700px;
+    color: #1F2937;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.info-box {
+    display: flex;
+    flex-direction: row;
+    margin-left: 250px;
+}
+
+.box-one, .box-two, .box-three, .box-four {
+    width: 150px;
+    height: 150px;
+    border: 3px #3882F6 solid;
+    border-radius: 8px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.info-box p {
+    margin-top: 160px;
+}
