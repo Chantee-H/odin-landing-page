@@ -162,3 +162,16 @@ display: flex;
 .call-main-text {
     display: inline;
 }
+
+/* Footer */
+
+.footer-background {
+    background-color: #1F2937;
+}
+
+.footer-text {
+    color: #F9FAF8;
+    margin-top: 100px;
+    padding: 40px 200px 40px 200px;
+    text-align: center;
+}
